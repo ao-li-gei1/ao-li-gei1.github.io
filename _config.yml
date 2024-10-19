@@ -1,29 +1,29 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: Manchester United
+SEOTitle: 曼联的博客 | MU Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: wjding7707@gmail.com
+description: "Glory Glory Man United"
+keyword: "MU, MU Blog, 曼联的博客, football, Man United, 红魔, 英超, old trafford"
+url: "http://ao-li-gei1.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Manger: Erik ten Hag"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     ddddddppp
+zhihu_username:     ddddddppp
+github_username:    ddddddppp
+facebook_username:  ddddddppp
+jianshu_username:   meiyou
+#twitter_username:   X
 
 
 
@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "南开",
+        href: "http://dg6z.net"
     },{
         title: "简书·BY",
         href: "http://www.jianshu.com/u/e71990ada2fd"
